@@ -1,9 +1,8 @@
 ---
-title: 'Hello Wolrld! my name is'
-name: 'Afshin Ataei'
-subtitle: 'I love exploring new things!'
-buttonText: 'Contact Me'
+title: 'سلام '
+name: ' سلام من متین خدارحمی هستم '
+subtitle: 'من عاشق گیتارم هستم!'
+buttonText: 'تماس با من'
 ---
 
-I'm an Iran based software developer with a goal-driven creative mindset and passion for learning and innovating.
-
+من یک نوازنده گیتار در ایران هستم که دارای ذهنیت خلاقانه هدفمند و اشتیاق به یادگیری و نوآوری هستم.
